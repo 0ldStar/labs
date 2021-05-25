@@ -1,0 +1,15 @@
+Donny
+Receipt date: 16 12 2006
+Date of expulsion: 14 12 2002
+Raf
+Receipt date: 10 6 2004
+Date of expulsion: 6 1 2000
+Leo
+Receipt date: 10 6 2008
+Date of expulsion: 19 5 2001
+Micky
+Receipt date: 17 10 2007
+Date of expulsion: 16 4 2005
+Splinter
+Receipt date: 17 10 2002
+Date of expulsion: 16 4 2000
